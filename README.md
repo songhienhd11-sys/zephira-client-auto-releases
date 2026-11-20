@@ -5,7 +5,7 @@ Kho phát hành **chỉ chứa bộ cài 1-Click (`.exe`), gói cài lần đầ
 - Tuyệt đối **không chứa mã nguồn**.
 - Tuyệt đối **tách biệt 100%** khỏi nhánh Chrome `zephirav1-releases` (`productId: "zephira-client-auto"`).
 
-## Phiên bản hiện tại: `v1.6` (`v1.6-b70`)
+## Phiên bản hiện tại: `v1.7` (`v1.7-b80`)
 - **Tải trực tiếp 1-Click Setup (nhẹ — cho Auto-Update / máy đã có client game):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `14496295ad86d6add1a4e4d79f35188021f6cca78fc097ec3335f28175ebfdd6`
-- **Ghi chú:** v1.6 (Build 70): Giu nguyen 100% FPS nguoi dung cai khi an (30/60/vsync - bo ep 15 FPS, khong ghi de pt-settings/v0Listeners giua tran), an cua so bang SW_HIDE sach nhu ban Web (khong doi khung/resize canvas), khoi phuc Watchdog 48ms tu bom nhip rAF khi SW_HIDE/tat man hinh, va bo trim RAM som cho tab an (chi don khan cap >=93%).
+- **SHA-256 (Setup):** `b04b991bdf3f7614a17cef33eb4c58623dd56a9dd63ac544c3e431e0069d76ec`
+- **Ghi chú:** v1.7 (Build 80): Pha 2 Toi uu Kien truc Da Tab 24/7 - Chuyen PtmLocalProxyBridge sang 100% True Async (bo thread accept chan, tai su dung buffer 32KB cho ca header, huy tunnel ngay khi Stop), tach orchestrator.RunTick() khoi UI thread (Single-Flight Coalescing + Render UI 0-lock), va khoa don luong ProbeAllTabs + giam quet thread Windows khi chuyen cua so.
