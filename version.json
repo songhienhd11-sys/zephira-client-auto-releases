@@ -1,12 +1,12 @@
 {
     "productId":  "zephira-client-auto",
-    "channel":  "ver1",
-    "version":  "v1.0",
-    "buildNumber":  10,
-    "versionBadge":  "v1.0 • Build 10",
-    "releaseDate":  "2026-11-20T17:05:08+07:00",
-    "sha256":  "6e213efb17f1cf7bf957908f3e96fe9a34e47215b42c736092360d3b44ad42e8",
-    "sizeBytes":  1372160,
+    "channel":  "v1.1",
+    "version":  "v1.1",
+    "buildNumber":  20,
+    "versionBadge":  "v1.1 • Build 20",
+    "releaseDate":  "2026-11-20T18:21:55+07:00",
+    "sha256":  "c935d36c56204104c22e3318e706e3316a5d320191a1da2d758425bfb98662fc",
+    "sizeBytes":  1372672,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "ver1 (v1.0 Build 10): ZephiraClientAuto Doc Lap cho Zephira World 1.2.0 — tach ly 8 truc khoi Chrome, xep luoi 4 goc \u0026 6-20 tab, Core thuong \u0026 Core Xanh BI108 (Oasis/Forbidden), Electron Stealth, Proxy Bridge cap \u0026 Auto-Update GitHub tach rieng."
+    "notes":  "v1.1 (Build 20): Mua mau/STM dung loai da chon (khong tut cap), sua loi random +-8% nhan doi \u0026 tat random khong an, chi dem dung loai khi bu shop, uu tien Core Pillai (EC104) -\u003e Ricarten (EC101) -\u003e Navisko (EC102)."
 }
