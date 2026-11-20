@@ -1,12 +1,12 @@
 {
     "productId":  "zephira-client-auto",
-    "channel":  "v1.7",
-    "version":  "v1.7",
-    "buildNumber":  80,
-    "versionBadge":  "v1.7 • Build 80",
-    "releaseDate":  "2026-11-21T01:24:05+07:00",
-    "sha256":  "b04b991bdf3f7614a17cef33eb4c58623dd56a9dd63ac544c3e431e0069d76ec",
-    "sizeBytes":  1398272,
+    "channel":  "ver1",
+    "version":  "v1.8",
+    "buildNumber":  90,
+    "versionBadge":  "v1.8 • Build 90",
+    "releaseDate":  "2026-11-21T03:19:00+07:00",
+    "sha256":  "c264a9adb9938ca8020862e887181f258c9725c3a17d377ecac6e05b095e3353",
+    "sizeBytes":  1428480,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v1.7 (Build 80): Pha 2 Toi uu Kien truc Da Tab 24/7 - Chuyen PtmLocalProxyBridge sang 100% True Async (bo thread accept chan, tai su dung buffer 32KB cho ca header, huy tunnel ngay khi Stop), tach orchestrator.RunTick() khoi UI thread (Single-Flight Coalescing + Render UI 0-lock), va khoa don luong ProbeAllTabs + giam quet thread Windows khi chuyen cua so."
+    "notes":  "v1.8 (Build 90): Sua loi ket noi lai may chu game qua proxy (loopback bypass chuan, 64 tunnel/tab, ResetActiveTunnels, cap backoff 15s + reload Server Select); hoan thien cai dat Auto-Hunt 3 tab (San/Ky nang/Thu thap) day du phan gat mo + Doc tu Tab 1 + chinh sach ky nang acc moi 0-skill; hoan thien cai dat Video \u0026 Am thanh chuan Tab 1 + Doc tu Tab 1 + dong bo truc tiep bang Setting (.stx) + pre-seed tab moi (giu nguyen tat am thanh cho may farm)."
 }
