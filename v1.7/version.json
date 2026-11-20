@@ -1,0 +1,12 @@
+{
+    "productId":  "zephira-client-auto",
+    "channel":  "v1.7",
+    "version":  "v1.7",
+    "buildNumber":  80,
+    "versionBadge":  "v1.7 • Build 80",
+    "releaseDate":  "2026-11-21T01:24:05+07:00",
+    "sha256":  "b04b991bdf3f7614a17cef33eb4c58623dd56a9dd63ac544c3e431e0069d76ec",
+    "sizeBytes":  1398272,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
+    "notes":  "v1.7 (Build 80): Pha 2 Toi uu Kien truc Da Tab 24/7 - Chuyen PtmLocalProxyBridge sang 100% True Async (bo thread accept chan, tai su dung buffer 32KB cho ca header, huy tunnel ngay khi Stop), tach orchestrator.RunTick() khoi UI thread (Single-Flight Coalescing + Render UI 0-lock), va khoa don luong ProbeAllTabs + giam quet thread Windows khi chuyen cua so."
+}
