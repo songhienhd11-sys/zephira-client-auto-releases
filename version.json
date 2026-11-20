@@ -1,12 +1,12 @@
 {
     "productId":  "zephira-client-auto",
-    "channel":  "v1.1",
-    "version":  "v1.1",
-    "buildNumber":  20,
-    "versionBadge":  "v1.1 • Build 20",
-    "releaseDate":  "2026-11-20T18:21:55+07:00",
-    "sha256":  "c935d36c56204104c22e3318e706e3316a5d320191a1da2d758425bfb98662fc",
-    "sizeBytes":  1372672,
+    "channel":  "v1.2",
+    "version":  "v1.2",
+    "buildNumber":  30,
+    "versionBadge":  "v1.2 • Build 30",
+    "releaseDate":  "2026-11-20T20:31:19+07:00",
+    "sha256":  "4c2d6e168a7666ab2ba3d078317b20ff68b0b492eed3e4d268efc3108dcc8a87",
+    "sizeBytes":  1377792,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v1.1 (Build 20): Mua mau/STM dung loai da chon (khong tut cap), sua loi random +-8% nhan doi \u0026 tat random khong an, chi dem dung loai khi bu shop, uu tien Core Pillai (EC104) -\u003e Ricarten (EC101) -\u003e Navisko (EC102)."
+    "notes":  "v1.2 (Build 30): Tối ưu Chế độ Ẩn chạy lâu dài (mặc định Eco 15 FPS, dải cấu hình 10-15 FPS, nâng toàn bộ ngưỡng khôi phục FPS \u003e 15, keep-alive CDP đơn luồng 45s dùng đồng hồ đơn điệu, reset focus/lifecycle trên phiên CDP mới, thăm dò native RAF thụ động \u0026 tự đánh thức cửa sổ bất đồng bộ chống race hiện tab tối đa 3 lần/10 phút)."
 }
