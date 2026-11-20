@@ -1,0 +1,12 @@
+{
+    "productId":  "zephira-client-auto",
+    "channel":  "ver1",
+    "version":  "v1.0",
+    "buildNumber":  10,
+    "versionBadge":  "v1.0 • Build 10",
+    "releaseDate":  "2026-11-20T16:45:52+07:00",
+    "sha256":  "5d4d00fa9c741e78b1c360a19db993828139579bee88b6552874d7b441413c86",
+    "sizeBytes":  1370112,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
+    "notes":  "ver1 (v1.0 Build 10): ZephiraClientAuto Doc Lap cho Zephira World 1.2.0 — tach ly 8 truc khoi Chrome, xep luoi 4 goc \u0026 6-20 tab, Core thuong \u0026 Core Xanh BI108 (Oasis/Forbidden), Electron Stealth, Proxy Bridge cap \u0026 Auto-Update GitHub tach rieng."
+}
