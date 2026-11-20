@@ -1,12 +1,12 @@
 {
     "productId":  "zephira-client-auto",
-    "channel":  "v1.6",
-    "version":  "v1.6",
-    "buildNumber":  70,
-    "versionBadge":  "v1.6 • Build 70",
-    "releaseDate":  "2026-11-21T00:56:31+07:00",
-    "sha256":  "14496295ad86d6add1a4e4d79f35188021f6cca78fc097ec3335f28175ebfdd6",
-    "sizeBytes":  1387520,
+    "channel":  "v1.7",
+    "version":  "v1.7",
+    "buildNumber":  80,
+    "versionBadge":  "v1.7 • Build 80",
+    "releaseDate":  "2026-11-21T01:24:05+07:00",
+    "sha256":  "b04b991bdf3f7614a17cef33eb4c58623dd56a9dd63ac544c3e431e0069d76ec",
+    "sizeBytes":  1398272,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v1.6 (Build 70): Giu nguyen 100% FPS nguoi dung cai khi an (30/60/vsync - bo ep 15 FPS, khong ghi de pt-settings/v0Listeners giua tran), an cua so bang SW_HIDE sach nhu ban Web (khong doi khung/resize canvas), khoi phuc Watchdog 48ms tu bom nhip rAF khi SW_HIDE/tat man hinh, va bo trim RAM som cho tab an (chi don khan cap \u003e=93%)."
+    "notes":  "v1.7 (Build 80): Pha 2 Toi uu Kien truc Da Tab 24/7 - Chuyen PtmLocalProxyBridge sang 100% True Async (bo thread accept chan, tai su dung buffer 32KB cho ca header, huy tunnel ngay khi Stop), tach orchestrator.RunTick() khoi UI thread (Single-Flight Coalescing + Render UI 0-lock), va khoa don luong ProbeAllTabs + giam quet thread Windows khi chuyen cua so."
 }
