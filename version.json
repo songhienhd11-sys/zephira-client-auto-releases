@@ -1,12 +1,12 @@
 {
     "productId":  "zephira-client-auto",
-    "channel":  "v1.3",
-    "version":  "v1.3",
-    "buildNumber":  40,
-    "versionBadge":  "v1.3 • Build 40",
-    "releaseDate":  "2026-11-20T21:16:40+07:00",
-    "sha256":  "21b1660b4b18a91c4af26472cb92cb533938549f71ecab7163099a47cf987457",
-    "sizeBytes":  1377792,
+    "channel":  "v1.4",
+    "version":  "v1.4",
+    "buildNumber":  50,
+    "versionBadge":  "v1.4 • Build 50",
+    "releaseDate":  "2026-11-20T22:18:06+07:00",
+    "sha256":  "623a944f8b0c91ea4bb3f4ce4e07f2617011a1dfc608aa2bf48fdaca205b9d11",
+    "sizeBytes":  1383424,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v1.3 (Build 40): Vá triệt để lỗi lưu/khôi phục FPS tùy biến trên các đường ẩn/hiện cửa sổ (HideTabWindow, ShowTabWindow, RestoreTabWindowTo800x600, SetWindowHidden, ApplyGlobalSettingsToAppConfigInMemory, GetAuthoritativeUserTargetFps) và đồng bộ hàng đợi FIFO ShowWindowAsync sau xung đánh thức ẩn — kiểm duyệt PASS bởi Claude Opus 5.5 High."
+    "notes":  "v1.4 (Build 50): Pha 1 Toi uu Hieu nang \u0026 On dinh Da Tab 24/7 (Proxy 32KB ConcurrentStack pool, WebSocket buffer reuse \u0026 \u003e262KB shrink, JSON stat-cache, lazy JS push \u0026 monotonic clock, single thread snapshot + PID:tidCount signature, 60s WorkingSet trim cooldown, Electron cache trim \u003e64MB giu nguyen phien dang nhap, GDI/Bag/PID leak bounds)."
 }
