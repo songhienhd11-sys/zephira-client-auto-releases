@@ -1,12 +1,12 @@
 {
     "productId":  "zephira-client-auto",
-    "channel":  "v2.4",
-    "version":  "v2.4",
-    "buildNumber":  150,
-    "versionBadge":  "v2.4 • Build 150",
-    "releaseDate":  "2026-11-21T20:19:21+07:00",
-    "sha256":  "01dc7e7b62c11b7f6adc009ff0f16f3a070d50837124de9dd3f30f32345c9b1a",
-    "sizeBytes":  1453056,
+    "channel":  "v2.5",
+    "version":  "v2.5",
+    "buildNumber":  160,
+    "versionBadge":  "v2.5 • Build 160",
+    "releaseDate":  "2026-11-21T20:41:59+07:00",
+    "sha256":  "17296995ec7dd46c259d1f69efd1de62408da2b1c1c8d3834f6b00d58cf0e4d8",
+    "sizeBytes":  1454080,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v2.4 (Build 150): Khoa chuan 30 FPS ngay ca khi an SW_HIDE (Bresenham phase-accumulator + watchdog 16ms + cache pt-settings 1s chan 100 FPS/parse spam), mo rong RAM modelCacheMB 2048 MB (2 GB) \u0026 Electron cache toi uu cho moi PC, du UI Video/Audio trong Game + sua triet de dong bo modal .stx qua onmousedown/aria-checked (tat Fog/Shadows/Water dung theo Tab 1)."
+    "notes":  "v2.5 (Build 160): Hot-upgrade installMuMuFpsLimiter v2 (khoa chuan 30 FPS ngay ca tren tab dang chay + khi an SW_HIDE), 2 GB RAM modelCacheMB + Electron cache toi uu moi PC, du UI Video/Audio trong Game + sua triet de dong bo switch .uk-switch-row.stx-check trong modal .stx (tat sach Suong mu, PostFX, Glow, FX, Audio dung 100% theo Tab 1)."
 }
