@@ -5,7 +5,7 @@ Kho phát hành **chỉ chứa bộ cài 1-Click (`.exe`), gói cài lần đầ
 - Tuyệt đối **không chứa mã nguồn**.
 - Tuyệt đối **tách biệt 100%** khỏi nhánh Chrome `zephirav1-releases` (`productId: "zephira-client-auto"`).
 
-## Phiên bản hiện tại: `v2.4` (`v2.4-b150`)
+## Phiên bản hiện tại: `v2.5` (`v2.5-b160`)
 - **Tải trực tiếp 1-Click Setup (nhẹ — cho Auto-Update / máy đã có client game):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `01dc7e7b62c11b7f6adc009ff0f16f3a070d50837124de9dd3f30f32345c9b1a`
-- **Ghi chú:** v2.4 (Build 150): Khoa chuan 30 FPS ngay ca khi an SW_HIDE (Bresenham phase-accumulator + watchdog 16ms + cache pt-settings 1s chan 100 FPS/parse spam), mo rong RAM modelCacheMB 2048 MB (2 GB) & Electron cache toi uu cho moi PC, du UI Video/Audio trong Game + sua triet de dong bo modal .stx qua onmousedown/aria-checked (tat Fog/Shadows/Water dung theo Tab 1).
+- **SHA-256 (Setup):** `17296995ec7dd46c259d1f69efd1de62408da2b1c1c8d3834f6b00d58cf0e4d8`
+- **Ghi chú:** v2.5 (Build 160): Hot-upgrade installMuMuFpsLimiter v2 (khoa chuan 30 FPS ngay ca tren tab dang chay + khi an SW_HIDE), 2 GB RAM modelCacheMB + Electron cache toi uu moi PC, du UI Video/Audio trong Game + sua triet de dong bo switch .uk-switch-row.stx-check trong modal .stx (tat sach Suong mu, PostFX, Glow, FX, Audio dung 100% theo Tab 1).
