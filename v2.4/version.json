@@ -1,0 +1,12 @@
+{
+    "productId":  "zephira-client-auto",
+    "channel":  "v2.4",
+    "version":  "v2.4",
+    "buildNumber":  150,
+    "versionBadge":  "v2.4 • Build 150",
+    "releaseDate":  "2026-11-21T20:19:21+07:00",
+    "sha256":  "01dc7e7b62c11b7f6adc009ff0f16f3a070d50837124de9dd3f30f32345c9b1a",
+    "sizeBytes":  1453056,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
+    "notes":  "v2.4 (Build 150): Khoa chuan 30 FPS ngay ca khi an SW_HIDE (Bresenham phase-accumulator + watchdog 16ms + cache pt-settings 1s chan 100 FPS/parse spam), mo rong RAM modelCacheMB 2048 MB (2 GB) \u0026 Electron cache toi uu cho moi PC, du UI Video/Audio trong Game + sua triet de dong bo modal .stx qua onmousedown/aria-checked (tat Fog/Shadows/Water dung theo Tab 1)."
+}
