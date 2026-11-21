@@ -1,0 +1,12 @@
+{
+    "productId":  "zephira-client-auto",
+    "channel":  "v2.9",
+    "version":  "v2.9",
+    "buildNumber":  200,
+    "versionBadge":  "v2.9 • Build 200",
+    "releaseDate":  "2026-11-22T02:17:12+07:00",
+    "sha256":  "3fca6d210eda7c7cef1af6bd93993f03abda2bc955edb410355407027abc53f4",
+    "sizeBytes":  1460736,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
+    "notes":  "v2.9 (Build 200): Sua dong bo Tu dong san - bat dung dong cha Quay ve diem xuat phat + Ngung tan cong de quay ve diem bat dau va dong con Quay ve moi 10s theo nhan tieng Viet goc cua game (vi-DBFbeHiy.js); sua runLootP3 mo duoc nhom Mana/Stamina dang dong (1 nut) va re-query DOM sau replaceChildren; mac dinh \u0026 tu nang cap cau hinh cu mo Mana/Stamina va dat gioi han Mau=150, Mana=50, Stamina=50."
+}
