@@ -1,0 +1,12 @@
+{
+    "productId":  "zephira-client-auto",
+    "channel":  "v3.0",
+    "version":  "v3.0",
+    "buildNumber":  210,
+    "versionBadge":  "v3.0 • Build 210",
+    "releaseDate":  "2026-11-22T04:50:24+07:00",
+    "sha256":  "72b13962b26cfdda842a7184afddd85ce4c2017d2a7b04dde49389a1d49c7159",
+    "sizeBytes":  1489408,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
+    "notes":  "v3.0 (Build 210): Them luong Treo dau gia Sheltom doc lap (chi kich hoat bang co uu tien tai tab THONG TIN sau khi ban rac ve thanh hoac nut Treo Sheltom ngay + bang cai dat gia tung loai Sheltom); tim kiem gia Gold thap nhat tu it nhat \u003e= 2 tin dang cung loai hop le (chong dinh the cu/nhay trang 2, loai tin Magic/qty!=1/chinh minh, chan bay gia thap \u003c40% TB 30 ngay \u0026 lowWarn, doc dung .auc-confirm-line va bam .auc-foot), tu ngung an toan khi dat tran 20 slot active+expired de ve farm binh thuong."
+}
