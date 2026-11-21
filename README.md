@@ -5,7 +5,7 @@ Kho phát hành **chỉ chứa bộ cài 1-Click (`.exe`), gói cài lần đầ
 - Tuyệt đối **không chứa mã nguồn**.
 - Tuyệt đối **tách biệt 100%** khỏi nhánh Chrome `zephirav1-releases` (`productId: "zephira-client-auto"`).
 
-## Phiên bản hiện tại: `v2.9` (`v2.9-b200`)
+## Phiên bản hiện tại: `v3.0` (`v3.0-b210`)
 - **Tải trực tiếp 1-Click Setup (nhẹ — cho Auto-Update / máy đã có client game):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `3fca6d210eda7c7cef1af6bd93993f03abda2bc955edb410355407027abc53f4`
-- **Ghi chú:** v2.9 (Build 200): Sua dong bo Tu dong san - bat dung dong cha Quay ve diem xuat phat + Ngung tan cong de quay ve diem bat dau va dong con Quay ve moi 10s theo nhan tieng Viet goc cua game (vi-DBFbeHiy.js); sua runLootP3 mo duoc nhom Mana/Stamina dang dong (1 nut) va re-query DOM sau replaceChildren; mac dinh & tu nang cap cau hinh cu mo Mana/Stamina va dat gioi han Mau=150, Mana=50, Stamina=50.
+- **SHA-256 (Setup):** `72b13962b26cfdda842a7184afddd85ce4c2017d2a7b04dde49389a1d49c7159`
+- **Ghi chú:** v3.0 (Build 210): Them luong Treo dau gia Sheltom doc lap (chi kich hoat bang co uu tien tai tab THONG TIN sau khi ban rac ve thanh hoac nut Treo Sheltom ngay + bang cai dat gia tung loai Sheltom); tim kiem gia Gold thap nhat tu it nhat >= 2 tin dang cung loai hop le (chong dinh the cu/nhay trang 2, loai tin Magic/qty!=1/chinh minh, chan bay gia thap <40% TB 30 ngay & lowWarn, doc dung .auc-confirm-line va bam .auc-foot), tu ngung an toan khi dat tran 20 slot active+expired de ve farm binh thuong.
