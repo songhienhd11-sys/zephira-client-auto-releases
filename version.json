@@ -1,12 +1,12 @@
 {
     "productId":  "zephira-client-auto",
-    "channel":  "v2.7",
-    "version":  "v2.7",
-    "buildNumber":  180,
-    "versionBadge":  "v2.7 • Build 180",
-    "releaseDate":  "2026-11-21T23:09:00+07:00",
-    "sha256":  "2bf030a17fddf69d049016c26eeeefe45bcafc3f2f706d7c7467a4204b325a6d",
-    "sizeBytes":  1458688,
+    "channel":  "v2.8",
+    "version":  "v2.8",
+    "buildNumber":  190,
+    "versionBadge":  "v2.8 • Build 190",
+    "releaseDate":  "2026-11-22T01:44:07+07:00",
+    "sha256":  "2a561facaee3260765c0ad26ff88ca6543f27b1792b37c7ab073bc5277c699e0",
+    "sizeBytes":  1459712,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v2.7 (Build 180): (1) Khoa thoi gian o bai toi thieu 5 phut (300 giay) moi duoc ve thanh ban do - chi cho ve som khi het binh mau (\u003c= nguong cai dat); (2) Sua triet de loi ban do bi sot o shop thanh: tach dong so sanh/chi so khoi phat hien do Aging, ban BI104/BI111 trong BanSach, tang retry doi Tui 1/2 + hover tooltip + click chuot phai ban, va bo khoa oan theo ma do."
+    "notes":  "v2.8 (Build 190): Sua loi cai dat Tu dong san that bai tren acc moi / tab chua bat Auto (mo bang .ah-panel truc tiep bang phim O tin cay qua CDP + fallback nut mo .sup-launch-btn.ah-launch thay vi bi chan boi IsTabAutoAllowed, dong bang bang fireClick, va cho phep dong bo live khi acc moi chua co key pt-autohunt-* trong localStorage)."
 }
