@@ -5,7 +5,7 @@ Kho phát hành **chỉ chứa bộ cài 1-Click (`.exe`), gói cài lần đầ
 - Tuyệt đối **không chứa mã nguồn**.
 - Tuyệt đối **tách biệt 100%** khỏi nhánh Chrome `zephirav1-releases` (`productId: "zephira-client-auto"`).
 
-## Phiên bản hiện tại: `v2.5` (`v2.5-b160`)
+## Phiên bản hiện tại: `v2.6` (`v2.6-b170`)
 - **Tải trực tiếp 1-Click Setup (nhẹ — cho Auto-Update / máy đã có client game):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `b9d760f1da43b10430807b67a29ff6b176098913dbfdd47e290d2bac56132534`
-- **Ghi chú:** v2.5 (Build 160): Hot-upgrade installMuMuFpsLimiter v2 (khoa chuan 30 FPS ngay ca tren tab dang chay + khi an SW_HIDE), 2 GB RAM modelCacheMB + Electron cache toi uu moi PC, du UI Video/Audio trong Game + sua triet de dong bo switch .uk-switch-row.stx-check trong modal .stx (bo qua tooltip .stx-tip/.stx-note/.hidden, tat sach Suong mu, PostFX/Vien toi/Hat phim, Glow, FX, Audio dung 100% theo Tab 1).
+- **SHA-256 (Setup):** `07d18d0a1ec7a2494dad356a63437d62513dcdcde6c173c8727d6e39898f2f71`
+- **Ghi chú:** v2.6 (Build 170): Sua triet de loi hom do trong/gan trong van move ve thanh ban — dong bo LastHandledBagFullNoticeSeq khi ve thanh/quay lai bai/restart app, khoa nguong toi thieu >=36/144 o cho bao day tui & hen 1p, nang cap observer .hud-notice v3 chong race van ban cu, sua selector thanh mau .hud-belt (top:565px) dem chuan binh mau tren belt, loc sach grid an & span can nang gia.
