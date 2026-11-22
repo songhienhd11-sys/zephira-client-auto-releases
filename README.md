@@ -5,7 +5,7 @@ Kho phát hành **chỉ chứa bộ cài 1-Click (`.exe`), gói cài lần đầ
 - Tuyệt đối **không chứa mã nguồn**.
 - Tuyệt đối **tách biệt 100%** khỏi nhánh Chrome `zephirav1-releases` (`productId: "zephira-client-auto"`).
 
-## Phiên bản hiện tại: `v3.5` (`v3.5-b260`)
+## Phiên bản hiện tại: `v3.5.1` (`v3.5.1-b261`)
 - **Tải trực tiếp 1-Click Setup (nhẹ — cho Auto-Update / máy đã có client game):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `0962d46533b07f1362d3f20ce6712c36e6113a8c65778c90dd0acde1226559dd`
-- **Ghi chú:** v3.5 (Build 260): Sua triet de loi kho ket noi lai sau vang game (async CDP modal click, timeout Dang ket noi lai + watchdog WebSocket/STALE_TELEMETRY leo thang restart, bo phat oan RateLimit 70-120s & Invalid session, bom lai mat khau + don PID zombie + reload ket SERVER/CHAR_SELECT), ItemDus Audit an toan, treo rac 20k -> huy vao ItemDus 300 slot, khoa Drain truoc Core Xanh F9 va khong thu vang ngoai bai.
+- **SHA-256 (Setup):** `71bf656ec97230cc3112552a268e5ed29d78b065e8a0bcded73fc30a1885ee33`
+- **Ghi chú:** v3.5.1 (Build 261): Nang nguong hang doi toan dan 2->5 (ha tai mem 5->2->1 + tran giu slot 8 phut), sua triet de loi ca dan tab dung o thanh & loi chua ban do da nhan ItemDus gay chong day hom (chan rut ItemDus khi tui chua ban sach/FinalBagScanOk, chong ghi de nguoc estBagCells ca nhanh UnknownNoChange, tran 56 o/ngan & 88% tai trong, tach bo dem quet tui/mo shop, bo dong bang 5p & vong lap TOWN_ITEMDUS_SHOP_RETRY_HOLD, chan lap vo tan sau drain + SheltomAuction, thoat ket dem Navisko, dong bo IsTownStageKey giu Eura/ice_ura la Hub NPC ngoai bai), sua ParseGitHubReleasesJson ho tro tag vX.Y.Z-bN va loc sach Nhat ky hoat dong UI chi giu log chinh + day du canh bao khan cap.
