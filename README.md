@@ -5,7 +5,7 @@ Kho phát hành **chỉ chứa bộ cài 1-Click (`.exe`), gói cài lần đầ
 - Tuyệt đối **không chứa mã nguồn**.
 - Tuyệt đối **tách biệt 100%** khỏi nhánh Chrome `zephirav1-releases` (`productId: "zephira-client-auto"`).
 
-## Phiên bản hiện tại: `v3.1` (`v3.1-b220`)
+## Phiên bản hiện tại: `v3.2` (`v3.2-b230`)
 - **Tải trực tiếp 1-Click Setup (nhẹ — cho Auto-Update / máy đã có client game):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `04913c3bcd53cdfeda1da0f21ecde0d2eb48fa1871d5279a2fbd08cb0a1ce14a`
-- **Ghi chú:** v3.1 (Build 220): Sua triet de loi Tab 1 bi kick 'tai khoan dang nhap o noi khac' va dung thanh khong di farm — khoa LaunchTabBrowserProcess theo TabIndex + MarkTabLaunchPending + giu bootingPid trong CloneProbeWithLiveOverlay + nang cua so boot 25s; bo sung regex 'dang nhap o noi khac / logged in elsewhere' vao 4 bo do JS & giu PiP .msgbox/.uk-ask-box + cooldown dang nhap 5.5s + chan reload khi da vao game; KICK_MODAL/WATCHDOG_RELOAD xoa LastSteadyFarmMap tranh false DeathCircuitOpen, chi pin GoldGather Tab 1 khi sender duoc tich Selected, va khop cooldown PREFLIGHT_CORE_MISSING_SAFE_HOLD 60s.
+- **SHA-256 (Setup):** `9ecd923b56d56b88451ef230bcc85ae68d7d4644367ff926c31db1b190bb2715`
+- **Ghi chú:** v3.2 Build 230: Tu dong thu vang da ban truoc khi dem 20 slot; Treo rac ngoai bai (65% tui, gia san 20.000g, chong mo mu 20/20); Multi-pass Ban rac <-> Thu vang & Huy rac dau gia (khoa 3 lop chong huy nham Sheltom/do cua nguoi choi).
