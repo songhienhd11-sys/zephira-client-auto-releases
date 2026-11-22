@@ -1,0 +1,12 @@
+{
+    "productId":  "zephira-client-auto",
+    "channel":  "v3.1",
+    "version":  "v3.1",
+    "buildNumber":  220,
+    "versionBadge":  "v3.1 • Build 220",
+    "releaseDate":  "2026-11-22T11:40:13+07:00",
+    "sha256":  "04913c3bcd53cdfeda1da0f21ecde0d2eb48fa1871d5279a2fbd08cb0a1ce14a",
+    "sizeBytes":  1491456,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
+    "notes":  "v3.1 (Build 220): Sua triet de loi Tab 1 bi kick \u0027tai khoan dang nhap o noi khac\u0027 va dung thanh khong di farm — khoa LaunchTabBrowserProcess theo TabIndex + MarkTabLaunchPending + giu bootingPid trong CloneProbeWithLiveOverlay + nang cua so boot 25s; bo sung regex \u0027dang nhap o noi khac / logged in elsewhere\u0027 vao 4 bo do JS \u0026 giu PiP .msgbox/.uk-ask-box + cooldown dang nhap 5.5s + chan reload khi da vao game; KICK_MODAL/WATCHDOG_RELOAD xoa LastSteadyFarmMap tranh false DeathCircuitOpen, chi pin GoldGather Tab 1 khi sender duoc tich Selected, va khop cooldown PREFLIGHT_CORE_MISSING_SAFE_HOLD 60s."
+}
