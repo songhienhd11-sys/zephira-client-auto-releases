@@ -1,12 +1,12 @@
 {
     "productId":  "zephira-client-auto",
     "channel":  "ver1",
-    "version":  "v3.3",
-    "buildNumber":  240,
-    "versionBadge":  "v3.3 • Build 240",
-    "releaseDate":  "2026-11-22T16:57:01+07:00",
-    "sha256":  "898313d3f432e5dbc98e8e17204c19d8b932335e4501a5e2d429ace9c269cdcd",
-    "sizeBytes":  1537536,
+    "version":  "v3.4",
+    "buildNumber":  250,
+    "versionBadge":  "v3.4 • Build 250",
+    "releaseDate":  "2026-11-22T20:02:54+07:00",
+    "sha256":  "8d6ed751fa1f91bda182484af5538942aaed4421769fdafc946874e685d898e3",
+    "sizeBytes":  1568768,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.3 (Build 240): Field Auction Priority #1 (Auto-Hunt ON + pause stray-panel/AutoParty + hide \u0027v\u0027 bag), 20-tab 1-2 concurrent FIFO queues for Auction/Town-VeChai/Timed-Sell, calm pacing + .auc-change recovery + post-listing verification \u0026 bag sort, lag/disconnect/power-loss resilience (.tmp/.bak ledger + fail-closed mine reconciliation + \u003c=25/tab cap), wrong-bag tooltip guard, audit \u0026 live Tab 1 hardening."
+    "notes":  "v3.4: 300-slot Field Stash-to-ItemDus, Dual-Bag Drain Bag 1-\u003eBag 2-\u003eShop, hardened Retry/Clear discipline \u0026 centralized Game DOM selector registry"
 }
