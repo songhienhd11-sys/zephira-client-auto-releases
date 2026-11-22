@@ -1,0 +1,12 @@
+{
+    "productId":  "zephira-client-auto",
+    "channel":  "v3.2",
+    "version":  "v3.2",
+    "buildNumber":  230,
+    "versionBadge":  "v3.2 • Build 230",
+    "releaseDate":  "2026-11-22T14:30:27+07:00",
+    "sha256":  "9ecd923b56d56b88451ef230bcc85ae68d7d4644367ff926c31db1b190bb2715",
+    "sizeBytes":  1522176,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
+    "notes":  "v3.2 Build 230: Tu dong thu vang da ban truoc khi dem 20 slot; Treo rac ngoai bai (65% tui, gia san 20.000g, chong mo mu 20/20); Multi-pass Ban rac \u003c-\u003e Thu vang \u0026 Huy rac dau gia (khoa 3 lop chong huy nham Sheltom/do cua nguoi choi)."
+}
