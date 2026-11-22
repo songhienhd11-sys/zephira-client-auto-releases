@@ -1,0 +1,12 @@
+{
+    "productId":  "zephira-client-auto",
+    "channel":  "v3.5",
+    "version":  "v3.5",
+    "buildNumber":  260,
+    "versionBadge":  "v3.5 • Build 260",
+    "releaseDate":  "2026-11-22T23:48:29+07:00",
+    "sha256":  "0962d46533b07f1362d3f20ce6712c36e6113a8c65778c90dd0acde1226559dd",
+    "sizeBytes":  1576960,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
+    "notes":  "v3.5 (Build 260): Sua triet de loi kho ket noi lai sau vang game (async CDP modal click, timeout Dang ket noi lai + watchdog WebSocket/STALE_TELEMETRY leo thang restart, bo phat oan RateLimit 70-120s \u0026 Invalid session, bom lai mat khau + don PID zombie + reload ket SERVER/CHAR_SELECT), ItemDus Audit an toan, treo rac 20k -\u003e huy vao ItemDus 300 slot, khoa Drain truoc Core Xanh F9 va khong thu vang ngoai bai."
+}
