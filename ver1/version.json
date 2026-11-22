@@ -1,12 +1,12 @@
 {
     "productId":  "zephira-client-auto",
     "channel":  "ver1",
-    "version":  "v2.3",
-    "buildNumber":  140,
-    "versionBadge":  "v2.3 • Build 140",
-    "releaseDate":  "2026-11-21T17:44:52+07:00",
-    "sha256":  "16863daf82320d08148118c4ae38a72849c46a8ac4a266b525c9836c5e1a91b3",
-    "sizeBytes":  1436672,
+    "version":  "v3.3",
+    "buildNumber":  240,
+    "versionBadge":  "v3.3 • Build 240",
+    "releaseDate":  "2026-11-22T16:57:01+07:00",
+    "sha256":  "898313d3f432e5dbc98e8e17204c19d8b932335e4501a5e2d429ace9c269cdcd",
+    "sizeBytes":  1537536,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v2.3 (Build 140): Sua loi che do Ban sach (BanSach) ep tat bo loc giu do tu UI (FromAppAndTabConfig); nay ton trong du 5 o tich giu do, dong bo ngay cho tab dang chay, tu dong bat mac dinh Giu da Sheltom (OS* Lucidy..Sol) kem khoa bao ve 2 lop som theo ma OS*/icon itos*/tooltip de giu 100% Sheltom cho Aging do va van ban Aging Stone thuong (BI110) trong Ban sach."
+    "notes":  "v3.3 (Build 240): Field Auction Priority #1 (Auto-Hunt ON + pause stray-panel/AutoParty + hide \u0027v\u0027 bag), 20-tab 1-2 concurrent FIFO queues for Auction/Town-VeChai/Timed-Sell, calm pacing + .auc-change recovery + post-listing verification \u0026 bag sort, lag/disconnect/power-loss resilience (.tmp/.bak ledger + fail-closed mine reconciliation + \u003c=25/tab cap), wrong-bag tooltip guard, audit \u0026 live Tab 1 hardening."
 }
