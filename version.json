@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.7.2",
-    "buildNumber":  282,
-    "versionBadge":  "v3.7.2 • Build 282",
+    "version":  "v3.7.3",
+    "buildNumber":  283,
+    "versionBadge":  "v3.7.3 • Build 283",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-23T20:19:04+07:00",
-    "sha256":  "5d264173430330cfa90b7922006d9b5abcb3e6e1b3f37c4848425402aa93ff32",
-    "sizeBytes":  1506304,
+    "releaseDate":  "2026-11-23T22:16:41+07:00",
+    "sha256":  "751e579d1c976f52720ec10e9608adfba6e0d14c11164b19bc7f57143d1c0e17",
+    "sizeBytes":  1510400,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.7.2 (Build 282): Nang toc do ban hang Tap Hoa \u0026 hut thung ItemDus ~4-5x (toi uu SwitchAttendedTabWhileHoldingGlobalLockAsync + SetFocusEmulationCachedAsync, gop CDP prep/coords + postSellProbeJs, xoa slot tren RAM bo scan thua, tinh gon polling ItemDus \u0026 dual-bag scan, sua race phan trang scrollTop khi nextPage lag; giu nguyen 100% bao ve 3 lop Sheltom/Aging/Mix/Perfect/Gia tri/Khoa)."
+    "notes":  "v3.7.3 (Build 283): Fix incomplete shop selling on hidden/mismatched bag, fix town hang watchdogs \u0026 cooldowns, fix ItemDus VN/EN \u0026 scroll drain + empty FieldTrash loop, fix post-relogin Auto-Hunt isTrusted stop \u0026 Guide Map nav loop."
 }
