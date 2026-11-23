@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.6",
-    "buildNumber":  270,
-    "versionBadge":  "v3.6 • Build 270",
+    "version":  "v3.7",
+    "buildNumber":  280,
+    "versionBadge":  "v3.7 • Build 280",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-23T15:05:51+07:00",
-    "sha256":  "da4adde66be7e92d8af4a12bc07be856aa22aabf39bf818c16e2cf576019d426",
-    "sizeBytes":  1458176,
+    "releaseDate":  "2026-11-23T18:41:30+07:00",
+    "sha256":  "efc172706f5dfaa49c873229ea623c8a814683bb517813861673ec5b493c6407",
+    "sizeBytes":  1503744,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.6 (Build 270): Ban phat hanh chinh thuc v3.6 (tich hop tron bo v3.6-beta1..beta5, da nghiem thu 48/48 test + soak 30s + live 5 tab 3/3 PASS): Hop Den BlackBox, MasterPlanArbitrator P2.1, Watchdog UIX, sua Sub-Server/DupLogin/TooFar 65u/TowerDefense, triet 5 crash HttpWebRequest UnobservedTaskException, heartbeat 120s WORKER:VECHAI \u0026 thoat ket de-1 \u003c-\u003e village-1, cat bao spin VeChaiShop \u0026 dedupe Vault/Spots (giu WAL), va sua Core Xanh RECOVERED_RESELECT chong loop quay Tap Hoa."
+    "notes":  "v3.7 (Build 280) - Ban chinh thuc Dot 1: (1) Single Field-Recall Gate + DecisionTrace chong Core ve thanh som; (2) Chong tap mu ItemDus/Tap hoa tai Pillai + khoa tuong ho Core xanh/Shop + z-index .tcw-panel; (3) Rut sach ItemDus khong bo sot + Step 1.5 tu dong thu \u0026 treo lai Sheltom het han/tra ve; (4) Per-Tab Lock + Dynamic heavyCap + Per-Proxy-IP Gate + P3.2 Proxy Health \u0026 0-Restart Hot-Swap; (5) Atomic .prev Installer + Crash-Loop Offline Rollback. Da kiem dinh 54/54 test + soak 15/15 + 3 vong kiem toan ZERO_HIGH_ZERO_MEDIUM."
 }
