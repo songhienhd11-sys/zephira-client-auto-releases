@@ -5,7 +5,7 @@ Kho phat hanh **chi chua bo cai 1-Click (`.exe`), goi cai lan dau (`.rar`) va ma
 - Tuyet doi **khong chua ma nguon**.
 - Tuyet doi **tach biet 100%** khoi nhanh phat hanh trinh duyet Chrome (`productId: "zephira-client-auto"`).
 
-## Phien ban hien tai (`stable`): `v3.7.3-b283`
-- **Tai truc tiep 1-Click Setup (1.44 MB):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `751e579d1c976f52720ec10e9608adfba6e0d14c11164b19bc7f57143d1c0e17`
-- **Ghi chu:** v3.7.3 (Build 283): Fix incomplete shop selling on hidden/mismatched bag, fix town hang watchdogs & cooldowns, fix ItemDus VN/EN & scroll drain + empty FieldTrash loop, fix post-relogin Auto-Hunt isTrusted stop & Guide Map nav loop.
+## Phien ban hien tai (`stable`): `v3.7.4-b284`
+- **Tai truc tiep 1-Click Setup (1.46 MB):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
+- **SHA-256 (Setup):** `e42c60041d85938f6ae9478a56b2fe912e6a81623919d5a662a9f0eaff386eaf`
+- **Ghi chu:** v3.7.4 (Build 284): 3h live-soak verified (5/5 active tabs, 0 crash/watchdog/tooltip-mismatch). Added in-place Key-E bag switch during ItemDus town drain (49/50 rounds reopens=0, 41x KeyE), 5-round periodic ItemDus check, hard field-recall gate, fixed T02 buttonless .lx-msg.on login deadlock, fixed Spec. ATK SPD / Turkish-I / DA108 Ring Armor C#+JS filter parity, locked auction mine row hover identity + cursor park (4,4), and hardened .auc-busy + force-refresh mine cancel polling.
