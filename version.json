@@ -1,12 +1,14 @@
 {
     "productId":  "zephira-client-auto",
-    "channel":  "v3.5.2",
-    "version":  "v3.5.2",
-    "buildNumber":  262,
-    "versionBadge":  "v3.5.2 • Build 262",
-    "releaseDate":  "2026-11-23T05:45:40+07:00",
-    "sha256":  "a10a3c5bb82cce104d56fd5d496797aff25a54076b4f2671b5f3abab85dcacd8",
-    "sizeBytes":  1596928,
+    "channel":  "stable",
+    "prerelease":  false,
+    "version":  "v3.6",
+    "buildNumber":  270,
+    "versionBadge":  "v3.6 • Build 270",
+    "clientRuntimeVersion":  "1.2.0",
+    "releaseDate":  "2026-11-23T15:05:51+07:00",
+    "sha256":  "da4adde66be7e92d8af4a12bc07be856aa22aabf39bf818c16e2cf576019d426",
+    "sizeBytes":  1458176,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.5.2 (Build 262): Chống lỗi Tài khoản đăng nhập ở nơi khác (chống mở 2 tab trùng, cooldown sau F5, ngắt vòng lặp tự kick 3 lần, chặn nhập trùng tài khoản giữa các tab) + chống lỗi cách xa khi Gom Gold/Auction (kiểm tra khoảng cách \u003c=120u, tiếp cận sát mục tiêu gom Gold, xử lý thông báo quá xa ở Gold Gather \u0026 Auction)."
+    "notes":  "v3.6 (Build 270): Ban phat hanh chinh thuc v3.6 (tich hop tron bo v3.6-beta1..beta5, da nghiem thu 48/48 test + soak 30s + live 5 tab 3/3 PASS): Hop Den BlackBox, MasterPlanArbitrator P2.1, Watchdog UIX, sua Sub-Server/DupLogin/TooFar 65u/TowerDefense, triet 5 crash HttpWebRequest UnobservedTaskException, heartbeat 120s WORKER:VECHAI \u0026 thoat ket de-1 \u003c-\u003e village-1, cat bao spin VeChaiShop \u0026 dedupe Vault/Spots (giu WAL), va sua Core Xanh RECOVERED_RESELECT chong loop quay Tap Hoa."
 }
