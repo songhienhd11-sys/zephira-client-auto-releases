@@ -1,0 +1,14 @@
+{
+    "productId":  "zephira-client-auto",
+    "channel":  "beta",
+    "prerelease":  true,
+    "version":  "v3.6-beta5",
+    "buildNumber":  269,
+    "versionBadge":  "v3.6-beta5 • Build 269",
+    "clientRuntimeVersion":  "1.2.0",
+    "releaseDate":  "2026-11-23T14:34:19+07:00",
+    "sha256":  "34d0e54a6d49b23db0725595f514bcce33f61ada791077c3b4afc20421e28467",
+    "sizeBytes":  1457664,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.6-beta5-b269/ZephiraClientAuto_Setup_1Click.exe",
+    "notes":  "v3.6-beta5 (Build 269): Triet 5 crash HttpWebRequest UnobservedTaskException; heartbeat 120s + handover/reacquire WORKER:VECHAI \u0026 noi walk village-1 -\u003e de-1; cat bao spin VeChaiShop + dedupe Vault/Spots (giu WAL); sua Core Xanh RECOVERED_RESELECT \u0026 chong loop quay Tap Hoa."
+}
