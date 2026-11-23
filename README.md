@@ -5,7 +5,7 @@ Kho phat hanh **chi chua bo cai 1-Click (`.exe`), goi cai lan dau (`.rar`) va ma
 - Tuyet doi **khong chua ma nguon**.
 - Tuyet doi **tach biet 100%** khoi nhanh phat hanh trinh duyet Chrome (`productId: "zephira-client-auto"`).
 
-## Phien ban hien tai (`stable`): `v3.7.1-b281`
+## Phien ban hien tai (`stable`): `v3.7.2-b282`
 - **Tai truc tiep 1-Click Setup (1.44 MB):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `60676524b3816727049191c7ca3ca0c5c9763e7b1fabdd29a8217f97f22d6a44`
-- **Ghi chu:** v3.7.1 (Build 281) - Hotfix khan cap sua triet de loi vong lap tu cap nhat khien UIX bat/tat lien tuc sau khi len v3.7: (1) ZephiraClientInstaller ghi dung SHA-256 cua goi ZephiraClientAuto_Setup_1Click.exe vao truong sha256 (khop 100% version.json tren GitHub) va tach SHA-256 cua ZephiraClientAuto.exe sang truong exeSha256; (2) ReadInstalledSha256 bo qua stamp cu lech build hoac nham exeSha256 de tu chua lanh; (3) Tang thoi gian cho tat em cho dan 12-20 tab (5.25s + 2.5s) chong kill som.
+- **SHA-256 (Setup):** `5d264173430330cfa90b7922006d9b5abcb3e6e1b3f37c4848425402aa93ff32`
+- **Ghi chu:** v3.7.2 (Build 282): Nang toc do ban hang Tap Hoa & hut thung ItemDus ~4-5x (toi uu SwitchAttendedTabWhileHoldingGlobalLockAsync + SetFocusEmulationCachedAsync, gop CDP prep/coords + postSellProbeJs, xoa slot tren RAM bo scan thua, tinh gon polling ItemDus & dual-bag scan, sua race phan trang scrollTop khi nextPage lag; giu nguyen 100% bao ve 3 lop Sheltom/Aging/Mix/Perfect/Gia tri/Khoa).
