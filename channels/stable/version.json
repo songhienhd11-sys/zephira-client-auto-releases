@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.7.3",
-    "buildNumber":  283,
-    "versionBadge":  "v3.7.3 • Build 283",
+    "version":  "v3.7.4",
+    "buildNumber":  284,
+    "versionBadge":  "v3.7.4 • Build 284",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-23T22:16:41+07:00",
-    "sha256":  "751e579d1c976f52720ec10e9608adfba6e0d14c11164b19bc7f57143d1c0e17",
-    "sizeBytes":  1510400,
+    "releaseDate":  "2026-11-24T03:53:46+07:00",
+    "sha256":  "e42c60041d85938f6ae9478a56b2fe912e6a81623919d5a662a9f0eaff386eaf",
+    "sizeBytes":  1527808,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.7.3 (Build 283): Fix incomplete shop selling on hidden/mismatched bag, fix town hang watchdogs \u0026 cooldowns, fix ItemDus VN/EN \u0026 scroll drain + empty FieldTrash loop, fix post-relogin Auto-Hunt isTrusted stop \u0026 Guide Map nav loop."
+    "notes":  "v3.7.4 (Build 284): 3h live-soak verified (5/5 active tabs, 0 crash/watchdog/tooltip-mismatch). Added in-place Key-E bag switch during ItemDus town drain (49/50 rounds reopens=0, 41x KeyE), 5-round periodic ItemDus check, hard field-recall gate, fixed T02 buttonless .lx-msg.on login deadlock, fixed Spec. ATK SPD / Turkish-I / DA108 Ring Armor C#+JS filter parity, locked auction mine row hover identity + cursor park (4,4), and hardened .auc-busy + force-refresh mine cancel polling."
 }
