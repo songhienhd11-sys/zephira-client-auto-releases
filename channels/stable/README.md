@@ -1,11 +1,11 @@
-# ZephiraClientAuto - `stable` (`v3.7.4 • Build 284`)
+# ZephiraClientAuto - `stable` (`v3.7.5 • Build 285`)
 
 - **Product ID:** `zephira-client-auto`
 - **Channel:** `stable` (prerelease=`False`)
-- **Tag Release:** `v3.7.4-b284`
-- **Asset Setup 1-Click (1.46 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v3.7.4-b284](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.7.4-b284/ZephiraClientAuto_Setup_1Click.exe))
-- **Size Setup:** 1527808 bytes
-- **SHA-256 Setup:** `e42c60041d85938f6ae9478a56b2fe912e6a81623919d5a662a9f0eaff386eaf`
+- **Tag Release:** `v3.7.5-b285`
+- **Asset Setup 1-Click (1.47 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v3.7.5-b285](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.7.5-b285/ZephiraClientAuto_Setup_1Click.exe))
+- **Size Setup:** 1546240 bytes
+- **SHA-256 Setup:** `ea565a0c64a0a87f3b49136e72d9f213c6e75bd5f84f66cb99de1f7e486766bb`
 
 ## Noi dung cap nhat
-v3.7.4 (Build 284): 3h live-soak verified (5/5 active tabs, 0 crash/watchdog/tooltip-mismatch). Added in-place Key-E bag switch during ItemDus town drain (49/50 rounds reopens=0, 41x KeyE), 5-round periodic ItemDus check, hard field-recall gate, fixed T02 buttonless .lx-msg.on login deadlock, fixed Spec. ATK SPD / Turkish-I / DA108 Ring Armor C#+JS filter parity, locked auction mine row hover identity + cursor park (4,4), and hardened .auc-busy + force-refresh mine cancel polling.
+v3.7.5 (Build 285): Ban buoc dem on dinh toan dien pipeline ve thanh truoc pha dai tu v3.8 — giu Force Orb mac dinh (KeepForceOrbs=true), khoa 100% PM*/BI106/BI107/BI147/OR2*/OE2*/OA130+/HW*/>50k/Boss, ban trang suc thuong sach (<=50k + xac nhan modal Vender item valioso? + fix regex \b tranh acordo), chuan hoa EC102/EC104 + van 1x EC101 Ricarten, ItemDus 2 ngan sieu toc (.dst-all + KeyE + 4 Lop Guard + mo rong o-*/chu thich dau gia + BlackBox DecisionTrace), van thoat ket >104 o toan Sheltom, Sheltom Auction 19/20 + 0ms skip + 90s chip-zero + Bag2 an toan, va tu dong Hide Tab sau moi Reset/Reload/Restart o ca Thanh lan Bai.
