@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.7.4",
-    "buildNumber":  284,
-    "versionBadge":  "v3.7.4 • Build 284",
+    "version":  "v3.7.5",
+    "buildNumber":  285,
+    "versionBadge":  "v3.7.5 • Build 285",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-24T03:53:46+07:00",
-    "sha256":  "e42c60041d85938f6ae9478a56b2fe912e6a81623919d5a662a9f0eaff386eaf",
-    "sizeBytes":  1527808,
+    "releaseDate":  "2026-11-24T13:03:48+07:00",
+    "sha256":  "ea565a0c64a0a87f3b49136e72d9f213c6e75bd5f84f66cb99de1f7e486766bb",
+    "sizeBytes":  1546240,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.7.4 (Build 284): 3h live-soak verified (5/5 active tabs, 0 crash/watchdog/tooltip-mismatch). Added in-place Key-E bag switch during ItemDus town drain (49/50 rounds reopens=0, 41x KeyE), 5-round periodic ItemDus check, hard field-recall gate, fixed T02 buttonless .lx-msg.on login deadlock, fixed Spec. ATK SPD / Turkish-I / DA108 Ring Armor C#+JS filter parity, locked auction mine row hover identity + cursor park (4,4), and hardened .auc-busy + force-refresh mine cancel polling."
+    "notes":  "v3.7.5 (Build 285): Ban buoc dem on dinh toan dien pipeline ve thanh truoc pha dai tu v3.8 — giu Force Orb mac dinh (KeepForceOrbs=true), khoa 100% PM*/BI106/BI107/BI147/OR2*/OE2*/OA130+/HW*/\u003e50k/Boss, ban trang suc thuong sach (\u003c=50k + xac nhan modal Vender item valioso? + fix regex \\b tranh acordo), chuan hoa EC102/EC104 + van 1x EC101 Ricarten, ItemDus 2 ngan sieu toc (.dst-all + KeyE + 4 Lop Guard + mo rong o-*/chu thich dau gia + BlackBox DecisionTrace), van thoat ket \u003e104 o toan Sheltom, Sheltom Auction 19/20 + 0ms skip + 90s chip-zero + Bag2 an toan, va tu dong Hide Tab sau moi Reset/Reload/Restart o ca Thanh lan Bai."
 }
