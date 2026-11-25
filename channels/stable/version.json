@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.7.7",
-    "buildNumber":  287,
-    "versionBadge":  "v3.7.7 • Build 287",
+    "version":  "v3.7.8",
+    "buildNumber":  288,
+    "versionBadge":  "v3.7.8 • Build 288",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-25T12:22:48+07:00",
-    "sha256":  "8978b2f168de2a63b84ff7b093b269405bfbcf350d1ea68f7b4ec9873f5178f7",
-    "sizeBytes":  1568256,
+    "releaseDate":  "2026-11-25T15:05:28+07:00",
+    "sha256":  "fd4c94374234d29b5e8774ae6ccaa093d079f24e5fe17e8880a873e2b8235c26",
+    "sizeBytes":  1569280,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.7.7 (Build 287): Pha ket UIX/HUD \u0026 Manager, Zero-Touch !Selected, khoa chon thanh nghiem ngat (tich thanh nao chi ve dung thanh do ca o che do Ban sach), va khi chi chon Navisko gap troi toi tu bat [A] danh quai cho troi sang moi ban do."
+    "notes":  "v3.7.8 (Build 288): Va bao dong gia Layer 4 ItemDus khi do Su kien co stack, chan mo mu ItemDus vo ich tai Navisko, fix ket Shop/Modal truoc khi bam Core Xanh (BI108) va nang Pre-Flight mua bu Core ve thanh sang Shop V2."
 }
