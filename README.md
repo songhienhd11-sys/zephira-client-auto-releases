@@ -5,7 +5,7 @@ Kho phat hanh **chi chua bo cai 1-Click (`.exe`), goi cai lan dau (`.rar`) va ma
 - Tuyet doi **khong chua ma nguon**.
 - Tuyet doi **tach biet 100%** khoi nhanh phat hanh trinh duyet Chrome (`productId: "zephira-client-auto"`).
 
-## Phien ban hien tai (`stable`): `v3.9.2-b302`
+## Phien ban hien tai (`stable`): `v3.9.3-b303`
 - **Tai truc tiep 1-Click Setup (1.80 MB):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `28f8493d856d1b26b53449a04531550cab682d0e2e6a09a4aa49b2e734f17156`
-- **Ghi chu:** v3.9.2 (Build 302): Allow excess normal Town Cores (EC101-EC104) in FieldTrash Auction->ItemDus while strictly keeping >=1 Town Core in bag; check ItemDus capacity before Phase 3 lag recall and continue farming at field if ItemDus < 280/300.
+- **SHA-256 (Setup):** `0fa633983ee23a39599069d359715f8cc55624ea92bd16d42a260e77e3e1fdcb`
+- **Ghi chu:** v3.9.3 (Build 303): Giu nguyen trang thai an tab khi auto-update/restart; toi uu rAF wake & settle mo panel/form tren tab an (SW_HIDE); sua guard tooltip .auc-form cho Town Core du.
