@@ -1,11 +1,11 @@
-# ZephiraClientAuto — `beta` (`v3.6-beta5 • Build 269`)
+# ZephiraClientAuto - `beta` (`v3.8-beta2 • Build 289`)
 
 - **Product ID:** `zephira-client-auto`
 - **Channel:** `beta` (prerelease=`True`)
-- **Tag Release:** `v3.6-beta5-b269`
-- **Asset Setup 1-Click (1.39 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tải bản v3.6-beta5-b269](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.6-beta5-b269/ZephiraClientAuto_Setup_1Click.exe))
-- **Size Setup:** 1457664 bytes
-- **SHA-256 Setup:** `34d0e54a6d49b23db0725595f514bcce33f61ada791077c3b4afc20421e28467`
+- **Tag Release:** `v3.8-beta2-b289`
+- **Asset Setup 1-Click (1.74 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v3.8-beta2-b289](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.8-beta2-b289/ZephiraClientAuto_Setup_1Click.exe))
+- **Size Setup:** 1819648 bytes
+- **SHA-256 Setup:** `02fc0e1c09907afe0cf98ed0cfdcfe1414fbad61f66c2c48d48e2c8b356baf11`
 
-## Nội dung cập nhật
-v3.6-beta5 (Build 269): Triet 5 crash HttpWebRequest UnobservedTaskException; heartbeat 120s + handover/reacquire WORKER:VECHAI & noi walk village-1 -> de-1; cat bao spin VeChaiShop + dedupe Vault/Spots (giu WAL); sua Core Xanh RECOVERED_RESELECT & chong loop quay Tap Hoa.
+## Noi dung cap nhat
+v3.8-beta2 Build 289: 1-Click Hotkeys (O/F7/F8), ItemDus Claim-All-No-Exceptions, Navisko Core/BlueCore recall-return policy, unique DOM Canary sell-target token, Navisko daylight sensor-valid guard, Navisko night suppress cleanup. Verified live on 6 tabs (671 items sold, 52/52 ItemDus drain rounds CLEAN_DONE, 0 warnings/errors).
