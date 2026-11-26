@@ -1,11 +1,11 @@
-# ZephiraClientAuto - `stable` (`v3.9.1 • Build 301`)
+# ZephiraClientAuto - `stable` (`v3.9.2 • Build 302`)
 
 - **Product ID:** `zephira-client-auto`
 - **Channel:** `stable` (prerelease=`False`)
-- **Tag Release:** `v3.9.1-b301`
-- **Asset Setup 1-Click (1.80 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v3.9.1-b301](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.9.1-b301/ZephiraClientAuto_Setup_1Click.exe))
-- **Size Setup:** 1888768 bytes
-- **SHA-256 Setup:** `4ffc4a69a4c284c164d852bf56634fb1185193db47cf0c9c91027ac068cc94a5`
+- **Tag Release:** `v3.9.2-b302`
+- **Asset Setup 1-Click (1.80 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v3.9.2-b302](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.9.2-b302/ZephiraClientAuto_Setup_1Click.exe))
+- **Size Setup:** 1890304 bytes
+- **SHA-256 Setup:** `28f8493d856d1b26b53449a04531550cab682d0e2e6a09a4aa49b2e734f17156`
 
 ## Noi dung cap nhat
-v3.9.1 (Build 301): Sua triet de loi treo Cua so dang mo khi hien hop thoai .msgbox Ban o qua xa Leiloeiro de Gold / may chu khac. Hay dang nhap lai - nhan dien nut sprite div.btn rong text trong runtime_payload.js (dong lop tren truoc + tu dong .msgbox thong bao 1 nut an toan ngoai bai) va don sach .msgbox qua xa trong FieldTrash.
+v3.9.2 (Build 302): Allow excess normal Town Cores (EC101-EC104) in FieldTrash Auction->ItemDus while strictly keeping >=1 Town Core in bag; check ItemDus capacity before Phase 3 lag recall and continue farming at field if ItemDus < 280/300.
