@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.8.12",
-    "buildNumber":  294,
-    "versionBadge":  "v3.8.12 • Build 294",
+    "version":  "v3.9",
+    "buildNumber":  300,
+    "versionBadge":  "v3.9 • Build 300",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-27T00:40:44+07:00",
-    "sha256":  "e533a50ed1caae8e675a626d64a0d117ac413a400c9f53afd8566a1c06b00b7e",
-    "sizeBytes":  1884672,
+    "releaseDate":  "2026-11-27T01:12:50+07:00",
+    "sha256":  "579445e7cb8fa6637055d3abcc53cf0128c5c78e90a1b2196e0f0d6130c7f102",
+    "sizeBytes":  1885696,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.8.12 (Build 294): Tach hang doi L4 va khoa ban shop theo tung cum IP Proxy (8 cum IP chay song song, trong cung 1 IP tranh 3 acc ban cung luc), pha deadlock ItemDus 265..279 tren FieldTrash de day tron len 280, va chan hover lap PHASE3_LOW_PRICE_CAP trong cung phien."
+    "notes":  "v3.9 (Build 300): Chan dut vong lap spam auto-sync phim tat 20s (mach ngat backoff 60s -\u003e 5p -\u003e 30p, gioi han 1 tab dong bo nen moi luc, chan re-enqueue khi dang backoff, log duy nhat 1 lan) va sua click mousedown cho tab Phim tat trong modal .stx."
 }
