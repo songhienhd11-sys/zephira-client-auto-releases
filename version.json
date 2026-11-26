@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.8.9",
-    "buildNumber":  291,
-    "versionBadge":  "v3.8.9 • Build 291",
+    "version":  "v3.8.10",
+    "buildNumber":  292,
+    "versionBadge":  "v3.8.10 • Build 292",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-26T20:15:00+07:00",
-    "sha256":  "760367400c7f5e7675f5da97e2f39edb076bf06f2ae71e4fc3131c53b0bb1d4e",
-    "sizeBytes":  1879552,
+    "releaseDate":  "2026-11-26T22:35:14+07:00",
+    "sha256":  "a791a6f1a44353e2f333257145556d2e5e1526f6f9931b11500177711a5253d6",
+    "sizeBytes":  1882112,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.8.9 (Build 291, stable): 800x600 window floor, v3.7.8 Grocery NPC port, 2-lane Field/Town decoupling, ItemDus\u003e=280 farm-until-full, TownSellExclusiveMode, 100% TownCore recall \u0026 F9-first BlueCore nav, v3.7.8 Navisko night auto-hunt."
+    "notes":  "v3.8.10 (Build 292): Step 12A-12D - day cho ngay khi day tui/qua nang \u0026 bo khoa oan noGold; rut sach ItemDus ve 0/300 \u0026 cat delay canh Tap Hoa; chay bo cuu canh khi F9 BI108 het Time Balance; chan lap mo tui 12s dem Navisko, va ve som ItemDus 265..279, noi timeout ban/tooltip rieng cho Win 10 1511 + trace ban xot va can bang nhip quet tui."
 }
