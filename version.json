@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.9.1",
-    "buildNumber":  301,
-    "versionBadge":  "v3.9.1 • Build 301",
+    "version":  "v3.9.2",
+    "buildNumber":  302,
+    "versionBadge":  "v3.9.2 • Build 302",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-27T02:11:30+07:00",
-    "sha256":  "4ffc4a69a4c284c164d852bf56634fb1185193db47cf0c9c91027ac068cc94a5",
-    "sizeBytes":  1888768,
+    "releaseDate":  "2026-11-27T02:59:42+07:00",
+    "sha256":  "28f8493d856d1b26b53449a04531550cab682d0e2e6a09a4aa49b2e734f17156",
+    "sizeBytes":  1890304,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.9.1 (Build 301): Sua triet de loi treo Cua so dang mo khi hien hop thoai .msgbox Ban o qua xa Leiloeiro de Gold / may chu khac. Hay dang nhap lai - nhan dien nut sprite div.btn rong text trong runtime_payload.js (dong lop tren truoc + tu dong .msgbox thong bao 1 nut an toan ngoai bai) va don sach .msgbox qua xa trong FieldTrash."
+    "notes":  "v3.9.2 (Build 302): Allow excess normal Town Cores (EC101-EC104) in FieldTrash Auction-\u003eItemDus while strictly keeping \u003e=1 Town Core in bag; check ItemDus capacity before Phase 3 lag recall and continue farming at field if ItemDus \u003c 280/300."
 }
