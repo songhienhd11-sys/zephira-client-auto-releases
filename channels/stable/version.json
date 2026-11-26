@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.9.2",
-    "buildNumber":  302,
-    "versionBadge":  "v3.9.2 • Build 302",
+    "version":  "v3.9.3",
+    "buildNumber":  303,
+    "versionBadge":  "v3.9.3 • Build 303",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-27T02:59:42+07:00",
-    "sha256":  "28f8493d856d1b26b53449a04531550cab682d0e2e6a09a4aa49b2e734f17156",
-    "sizeBytes":  1890304,
+    "releaseDate":  "2026-11-27T03:32:46+07:00",
+    "sha256":  "0fa633983ee23a39599069d359715f8cc55624ea92bd16d42a260e77e3e1fdcb",
+    "sizeBytes":  1890816,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.9.2 (Build 302): Allow excess normal Town Cores (EC101-EC104) in FieldTrash Auction-\u003eItemDus while strictly keeping \u003e=1 Town Core in bag; check ItemDus capacity before Phase 3 lag recall and continue farming at field if ItemDus \u003c 280/300."
+    "notes":  "v3.9.3 (Build 303): Giu nguyen trang thai an tab khi auto-update/restart; toi uu rAF wake \u0026 settle mo panel/form tren tab an (SW_HIDE); sua guard tooltip .auc-form cho Town Core du."
 }
