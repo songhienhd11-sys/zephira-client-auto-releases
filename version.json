@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.9.4",
-    "buildNumber":  304,
-    "versionBadge":  "v3.9.4 • Build 304",
+    "version":  "v3.9.5",
+    "buildNumber":  305,
+    "versionBadge":  "v3.9.5 • Build 305",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-27T10:33:29+07:00",
-    "sha256":  "e60b3e172e284f3549fbcb978213364ebf698e81a17a9eb471c1af7916081e21",
-    "sizeBytes":  1890816,
+    "releaseDate":  "2026-11-27T10:57:38+07:00",
+    "sha256":  "85adaf0d68c382276b6c3f3255bf8a1031bea6dc65ff037abea9ad8eda006735",
+    "sizeBytes":  1891328,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.9.4 (Build 304): Sua loi EC101..EC104:noTip khien Core ve thanh du bi bo qua khong day len cho (giu cung \u003e=1 Core va tu dong lay ten game live tu o ban cho); bo co --enable-zero-copy cho GPU HighDedicated (RTX 5070 Ti) de chong dung tab an SW_HIDE."
+    "notes":  "v3.9.5 (Build 305): Fix LIVE_TOOLTIP_SHELTOM_OR_FORCE blocking cancel of excess Town Cores (EC101..EC104) caused by benign \u0027Khong hoat dong trong Bellatra\u0027 tooltip line; keeps \u003e=1 Core, keeps Bellatra/Teleport Core/Sheltom/Force/locked hard-blocked; includes v3.9.4 EC101..EC104:noTip fix \u0026 RTX 5070 Ti SW_HIDE stability fix."
 }
