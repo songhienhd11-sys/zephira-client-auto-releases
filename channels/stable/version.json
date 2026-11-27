@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v4.0.2",
-    "buildNumber":  312,
-    "versionBadge":  "v4.0.2 • Build 312",
+    "version":  "v4.0.3",
+    "buildNumber":  313,
+    "versionBadge":  "v4.0.3 • Build 313",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-27T22:38:44+07:00",
-    "sha256":  "dcac880fa4674e384d1bf4aaabd97ecfcaf57208a9c6350679ab45fe93b9757a",
-    "sizeBytes":  1903616,
+    "releaseDate":  "2026-11-28T02:10:07+07:00",
+    "sha256":  "0d3c315970ffb9a9b523f0a4ef3d0926dd4a19ded3fc88329d731f357634df9c",
+    "sizeBytes":  1907200,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v4.0.2 (Build 312, stable): ZephiraClientAuto cho Zephira World 1.2.0."
+    "notes":  "v4.0.3 (Build 313, stable): On dinh nen Win11 GPU/hardware (giam WMI storm, mien JobObject/affinity cho gpu-process, sua Watchdog SilentWebSocket/WebGL/Guard 2c SW_HIDE), ngu man hinh/an tab nhe tay (WM_POWERBROADCAST + FieldTrash 2-slot \u0026 giu thong bao Rest Mode), va sua vong lap T02 Navisko."
 }
