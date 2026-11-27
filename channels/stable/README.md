@@ -1,11 +1,11 @@
-# ZephiraClientAuto - `stable` (`v3.9.5 • Build 305`)
+# ZephiraClientAuto - `stable` (`v3.9.6 • Build 306`)
 
 - **Product ID:** `zephira-client-auto`
 - **Channel:** `stable` (prerelease=`False`)
-- **Tag Release:** `v3.9.5-b305`
-- **Asset Setup 1-Click (1.80 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v3.9.5-b305](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.9.5-b305/ZephiraClientAuto_Setup_1Click.exe))
-- **Size Setup:** 1891328 bytes
-- **SHA-256 Setup:** `85adaf0d68c382276b6c3f3255bf8a1031bea6dc65ff037abea9ad8eda006735`
+- **Tag Release:** `v3.9.6-b306`
+- **Asset Setup 1-Click (1.81 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v3.9.6-b306](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.9.6-b306/ZephiraClientAuto_Setup_1Click.exe))
+- **Size Setup:** 1893888 bytes
+- **SHA-256 Setup:** `d8c9589424f5348a5f68af9e3d5764e118e72c7a1843e9bf296f3e5e9b2ebbed`
 
 ## Noi dung cap nhat
-v3.9.5 (Build 305): Fix LIVE_TOOLTIP_SHELTOM_OR_FORCE blocking cancel of excess Town Cores (EC101..EC104) caused by benign 'Khong hoat dong trong Bellatra' tooltip line; keeps >=1 Core, keeps Bellatra/Teleport Core/Sheltom/Force/locked hard-blocked; includes v3.9.4 EC101..EC104:noTip fix & RTX 5070 Ti SW_HIDE stability fix.
+v3.9.6 (Build 306, stable): ZephiraClientAuto cho Zephira World 1.2.0.
