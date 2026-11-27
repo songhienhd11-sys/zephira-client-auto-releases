@@ -1,11 +1,11 @@
-# ZephiraClientAuto - `stable` (`v3.9.4 • Build 304`)
+# ZephiraClientAuto - `stable` (`v3.9.5 • Build 305`)
 
 - **Product ID:** `zephira-client-auto`
 - **Channel:** `stable` (prerelease=`False`)
-- **Tag Release:** `v3.9.4-b304`
-- **Asset Setup 1-Click (1.80 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v3.9.4-b304](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.9.4-b304/ZephiraClientAuto_Setup_1Click.exe))
-- **Size Setup:** 1890816 bytes
-- **SHA-256 Setup:** `e60b3e172e284f3549fbcb978213364ebf698e81a17a9eb471c1af7916081e21`
+- **Tag Release:** `v3.9.5-b305`
+- **Asset Setup 1-Click (1.80 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v3.9.5-b305](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v3.9.5-b305/ZephiraClientAuto_Setup_1Click.exe))
+- **Size Setup:** 1891328 bytes
+- **SHA-256 Setup:** `85adaf0d68c382276b6c3f3255bf8a1031bea6dc65ff037abea9ad8eda006735`
 
 ## Noi dung cap nhat
-v3.9.4 (Build 304): Sua loi EC101..EC104:noTip khien Core ve thanh du bi bo qua khong day len cho (giu cung >=1 Core va tu dong lay ten game live tu o ban cho); bo co --enable-zero-copy cho GPU HighDedicated (RTX 5070 Ti) de chong dung tab an SW_HIDE.
+v3.9.5 (Build 305): Fix LIVE_TOOLTIP_SHELTOM_OR_FORCE blocking cancel of excess Town Cores (EC101..EC104) caused by benign 'Khong hoat dong trong Bellatra' tooltip line; keeps >=1 Core, keeps Bellatra/Teleport Core/Sheltom/Force/locked hard-blocked; includes v3.9.4 EC101..EC104:noTip fix & RTX 5070 Ti SW_HIDE stability fix.
