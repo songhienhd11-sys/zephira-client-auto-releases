@@ -5,7 +5,7 @@ Kho phat hanh **chi chua bo cai 1-Click (`.exe`), goi cai lan dau (`.rar`) va ma
 - Tuyet doi **khong chua ma nguon**.
 - Tuyet doi **tach biet 100%** khoi nhanh phat hanh trinh duyet Chrome (`productId: "zephira-client-auto"`).
 
-## Phien ban hien tai (`stable`): `v3.9.7-b307`
+## Phien ban hien tai (`stable`): `v4.0-b310`
 - **Tai truc tiep 1-Click Setup (1.81 MB):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `d26814b7680eb8576b723a2c57a664f6d65f67764b0e87d3ddc4a2871c3a311e`
-- **Ghi chu:** v3.9.7 (Build 307, stable): ZephiraClientAuto cho Zephira World 1.2.0.
+- **SHA-256 (Setup):** `1ca7e870b2b51f1208715c45ae8fbebf8192b7588fa6fa53a6a9e5ce62663b2d`
+- **Ghi chu:** v4.0 (Build 310): Sua loi man hinh den sau khi An/Hien tab tren Win 11 + RTX 5070 Ti (HAGS) va on dinh UIX: bo Pulse Win32 nhap nhay SWP_SHOWWINDOW/SW_HIDE tren tab an (thay bang WakeHiddenCompositorFrameAsync CDP khong nhap nhay), them --disable-direct-composition cho GPU roi tren Win 11 (build >= 22000), them RedrawWindow + 1px WM_SIZE SwapChain nudge + khoi phuc UIX/WebGL khi Hien tab, va sua treo ScanAllTabWindows/re-entrancy khi An/Hien All Tab.
