@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v4.0.4",
-    "buildNumber":  314,
-    "versionBadge":  "v4.0.4 • Build 314",
+    "version":  "v4.0.5",
+    "buildNumber":  315,
+    "versionBadge":  "v4.0.5 • Build 315",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-28T02:46:38+07:00",
-    "sha256":  "8a33982864bde47c8e05687eef00e648eb443a220fc7512159d759394c5c06b5",
-    "sizeBytes":  1897472,
+    "releaseDate":  "2026-11-28T03:43:37+07:00",
+    "sha256":  "82b2cd15f51c39502fe1a7e11e85b46aeb389aa4335df4a54cd7c4d0f5d7838d",
+    "sizeBytes":  1899520,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v4.0.4 (Build 314, stable): Khoi phuc 100% nguyen ban nen v3.9.7 (a608cc5) on dinh tren moi PC — go bo hoan toan cac ban va RTX 5070 / an-hien cua so / WakeHiddenCompositorFrameAsync / GPU flags tu v4.0..v4.0.3."
+    "notes":  "v4.0.5 (Build 315, stable): Sua dut diem loi den man hinh khi An/Hien tab (DWM SwapChain desync) bang 1 nhip SetWindowPos w+1-\u003ew sach rai deu khi Hien tab (khong RDW_ERASE/captureScreenshot/JS resize, co opt-out DisableUnhideDwmSizeNudge) va sua bug vong lap spam SW_HIDE luc boot trong StartBootMaximizeSuppressorAsync."
 }
