@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.9.5",
-    "buildNumber":  305,
-    "versionBadge":  "v3.9.5 • Build 305",
+    "version":  "v3.9.6",
+    "buildNumber":  306,
+    "versionBadge":  "v3.9.6 • Build 306",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-27T10:57:38+07:00",
-    "sha256":  "85adaf0d68c382276b6c3f3255bf8a1031bea6dc65ff037abea9ad8eda006735",
-    "sizeBytes":  1891328,
+    "releaseDate":  "2026-11-27T16:16:17+07:00",
+    "sha256":  "d8c9589424f5348a5f68af9e3d5764e118e72c7a1843e9bf296f3e5e9b2ebbed",
+    "sizeBytes":  1893888,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.9.5 (Build 305): Fix LIVE_TOOLTIP_SHELTOM_OR_FORCE blocking cancel of excess Town Cores (EC101..EC104) caused by benign \u0027Khong hoat dong trong Bellatra\u0027 tooltip line; keeps \u003e=1 Core, keeps Bellatra/Teleport Core/Sheltom/Force/locked hard-blocked; includes v3.9.4 EC101..EC104:noTip fix \u0026 RTX 5070 Ti SW_HIDE stability fix."
+    "notes":  "v3.9.6 (Build 306, stable): ZephiraClientAuto cho Zephira World 1.2.0."
 }
