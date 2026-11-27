@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.9.3",
-    "buildNumber":  303,
-    "versionBadge":  "v3.9.3 • Build 303",
+    "version":  "v3.9.4",
+    "buildNumber":  304,
+    "versionBadge":  "v3.9.4 • Build 304",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-27T03:32:46+07:00",
-    "sha256":  "0fa633983ee23a39599069d359715f8cc55624ea92bd16d42a260e77e3e1fdcb",
+    "releaseDate":  "2026-11-27T10:33:29+07:00",
+    "sha256":  "e60b3e172e284f3549fbcb978213364ebf698e81a17a9eb471c1af7916081e21",
     "sizeBytes":  1890816,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.9.3 (Build 303): Giu nguyen trang thai an tab khi auto-update/restart; toi uu rAF wake \u0026 settle mo panel/form tren tab an (SW_HIDE); sua guard tooltip .auc-form cho Town Core du."
+    "notes":  "v3.9.4 (Build 304): Sua loi EC101..EC104:noTip khien Core ve thanh du bi bo qua khong day len cho (giu cung \u003e=1 Core va tu dong lay ten game live tu o ban cho); bo co --enable-zero-copy cho GPU HighDedicated (RTX 5070 Ti) de chong dung tab an SW_HIDE."
 }
