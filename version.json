@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v3.9.6",
-    "buildNumber":  306,
-    "versionBadge":  "v3.9.6 • Build 306",
+    "version":  "v3.9.7",
+    "buildNumber":  307,
+    "versionBadge":  "v3.9.7 • Build 307",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-27T16:16:17+07:00",
-    "sha256":  "d8c9589424f5348a5f68af9e3d5764e118e72c7a1843e9bf296f3e5e9b2ebbed",
-    "sizeBytes":  1893888,
+    "releaseDate":  "2026-11-27T17:23:08+07:00",
+    "sha256":  "d26814b7680eb8576b723a2c57a664f6d65f67764b0e87d3ddc4a2871c3a311e",
+    "sizeBytes":  1897472,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v3.9.6 (Build 306, stable): ZephiraClientAuto cho Zephira World 1.2.0."
+    "notes":  "v3.9.7 (Build 307, stable): ZephiraClientAuto cho Zephira World 1.2.0."
 }
