@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v4.0",
-    "buildNumber":  310,
-    "versionBadge":  "v4.0 • Build 310",
+    "version":  "v4.0.1",
+    "buildNumber":  311,
+    "versionBadge":  "v4.0.1 • Build 311",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-27T18:34:25+07:00",
-    "sha256":  "1ca7e870b2b51f1208715c45ae8fbebf8192b7588fa6fa53a6a9e5ce62663b2d",
-    "sizeBytes":  1900032,
+    "releaseDate":  "2026-11-27T19:42:34+07:00",
+    "sha256":  "72547fdc16617c5986fb88ac064656b3f86078e8e70c105f3da9040f8592724b",
+    "sizeBytes":  1901056,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v4.0 (Build 310): Sua loi man hinh den sau khi An/Hien tab tren Win 11 + RTX 5070 Ti (HAGS) va on dinh UIX: bo Pulse Win32 nhap nhay SWP_SHOWWINDOW/SW_HIDE tren tab an (thay bang WakeHiddenCompositorFrameAsync CDP khong nhap nhay), them --disable-direct-composition cho GPU roi tren Win 11 (build \u003e= 22000), them RedrawWindow + 1px WM_SIZE SwapChain nudge + khoi phuc UIX/WebGL khi Hien tab, va sua treo ScanAllTabWindows/re-entrancy khi An/Hien All Tab."
+    "notes":  "v4.0.1 (Build 311): Khac phuc triet de loi man hinh den khi de lau tren Win 11 + RTX 5070 Ti (HAGS): thoat dung Che do nghi trong game (gui phim Escape thoat pt-resting/.afk-rest-root de mo lai renderPause 3D), tang do tre \u0026 nhip ve lai SwapChain 2 luot sau khi Hien All-Tab (120ms/65ms + 350ms), va giu tin hieu man hinh Win 11 (ES_DISPLAY_REQUIRED) tranh Windows tat man hinh D3 lam mat be mat DXGI."
 }
