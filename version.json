@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v4.0.9",
-    "buildNumber":  321,
-    "versionBadge":  "v4.0.9 • Build 321",
+    "version":  "v4.0.10",
+    "buildNumber":  322,
+    "versionBadge":  "v4.0.10 • Build 322",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-28T16:21:52+07:00",
-    "sha256":  "1f3fb9746deaf65cea358de6dcea3cea738f599502a209d9de2e4699c6754fdb",
-    "sizeBytes":  1938944,
+    "releaseDate":  "2026-11-28T17:40:02+07:00",
+    "sha256":  "4791a6aed9e2f8ed676e40858ce6700e7b3b0d2a65998554f8a405f92c85ebb2",
+    "sizeBytes":  1942016,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v4.0.9 (Build 321): Tai thiet ke UIX quan ly da tab gon gang (24-60 tab): thanh 2 tang 68px, 4 pill loc nhanh (Online/Mo/An/Loi), 3 menu dropdown (Auto, Reset Mem/Cung rai deu co Huy, Dong OFF-Mo/ON/Loi/Khoang/Tat ca), thanh thao tac theo lo Tu X -\u003e Den Y, chon nhieu dong Grid (Ctrl/Shift+Click) + menu chuot phai rieng va dong bo TitleBar."
+    "notes":  "v4.0.10 (Build 322): Sua triet de loi an game SW_HIDE khong ban duoc do (click tat che do .sh-mode.on bi ket, danh thuc mem WakeHiddenTabForUiActionAsync \u0026 thoat pt-resting tai Shop Thanh/Sheltom/FieldTrash, dong bo FocusEmulation \u0026 HideTabWindow, gian tooltip poll + bom rAF, chot van tay Shop Tap Hoa)."
 }
