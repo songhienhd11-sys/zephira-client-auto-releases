@@ -1,11 +1,11 @@
-# ZephiraClientAuto - `stable` (`v4.0.7 • Build 317`)
+# ZephiraClientAuto - `stable` (`v4.0.8 • Build 320`)
 
 - **Product ID:** `zephira-client-auto`
 - **Channel:** `stable` (prerelease=`False`)
-- **Tag Release:** `v4.0.7-b317`
-- **Asset Setup 1-Click (1.82 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v4.0.7-b317](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v4.0.7-b317/ZephiraClientAuto_Setup_1Click.exe))
-- **Size Setup:** 1913344 bytes
-- **SHA-256 Setup:** `a373f627d92640c9aa8ef5384a55e7e3a823bdfd02003a6192f6665ec3d20055`
+- **Tag Release:** `v4.0.8-b320`
+- **Asset Setup 1-Click (1.83 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v4.0.8-b320](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v4.0.8-b320/ZephiraClientAuto_Setup_1Click.exe))
+- **Size Setup:** 1918976 bytes
+- **SHA-256 Setup:** `1d5dbeab221b9ef4528c647cf4e283fa08ad8497f0a434851bf629b6b9accc4c`
 
 ## Noi dung cap nhat
-v4.0.7 (Build 317): Them che do 1-Click Nap Acc All-Tab Nhanh (chung Pass hoac ID|Pass, tu tao den 60 tab), Chia Deu Proxy Nhanh (vd 20 IP x Chia 2 = 40 Tab kem canh bao trung >3 acc/IP), va them 2 nut Bo chon tat ca + Dong tat ca ngay tren thanh thao tac bang tab.
+v4.0.8 (Build 320): Hop nhat 3 cum va triet de tren nen sach v4.0.7: (1) FieldTrash nghi man ca tab An SW_HIDE & Khong An Visible (tach pt-resting, giu toast, TryExitGameRestModeTrustedAsync + hit-test tai 4 diem vao, WM_POWERBROADCAST Display-Off + danh thuc mem khong den/chop man, chan nhip quet 90-150s, OPEN_AUCTION_FAIL lan 1 45s); (2) Chong chua day hom van ve & bay di bay lai (chan ESCAPE_TO_FARM khi ItemDus>=265 hoac tui>=60 con do ban kem tran 3 chu ky/10 phut, va T02 Navisko troi sang, siet R5_EXCESS_CORES); (3) Chong trung dang nhap 'may chu khac / another server' tren JS+C#, dong WebSocket + cho settle 1.5s truoc moi reload, va Watchdog Guard 2 + WebGL 15s grace + SilentWS 45s.
