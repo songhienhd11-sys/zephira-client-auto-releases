@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v4.0.5",
-    "buildNumber":  315,
-    "versionBadge":  "v4.0.5 • Build 315",
+    "version":  "v4.0.6",
+    "buildNumber":  316,
+    "versionBadge":  "v4.0.6 • Build 316",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-28T03:43:37+07:00",
-    "sha256":  "82b2cd15f51c39502fe1a7e11e85b46aeb389aa4335df4a54cd7c4d0f5d7838d",
-    "sizeBytes":  1899520,
+    "releaseDate":  "2026-11-28T09:15:46+07:00",
+    "sha256":  "477081621b1b1cfb59a1e186145d782222daf1594c7d75d718b90f9d64f6b0a8",
+    "sizeBytes":  1903616,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v4.0.5 (Build 315, stable): Sua dut diem loi den man hinh khi An/Hien tab (DWM SwapChain desync) bang 1 nhip SetWindowPos w+1-\u003ew sach rai deu khi Hien tab (khong RDW_ERASE/captureScreenshot/JS resize, co opt-out DisableUnhideDwmSizeNudge) va sua bug vong lap spam SW_HIDE luc boot trong StartBootMaximizeSuppressorAsync."
+    "notes":  "v4.0.6 (Build 316): Va triet de 4 lo hong Stealth / Anti-Detection tren nen on dinh man hinh v4.0.5: chuyen __zca* vao Vault WeakMap/Symbol, dong bo 100% localStorage[\u0027pt.device\u0027] \u003c-\u003e cookie pt_did, bu vien Win32 \u003e= 818x642 + jitter xac dinh theo tung tab, va canh bao do [PROXY_IP_OVERLOAD] khi \u003e 3 tab dung chung 1 Host IP Proxy ke ca khac port."
 }
