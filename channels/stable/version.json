@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v4.0.10",
-    "buildNumber":  322,
-    "versionBadge":  "v4.0.10 • Build 322",
+    "version":  "v4.0.11",
+    "buildNumber":  323,
+    "versionBadge":  "v4.0.11 • Build 323",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-28T17:40:02+07:00",
-    "sha256":  "4791a6aed9e2f8ed676e40858ce6700e7b3b0d2a65998554f8a405f92c85ebb2",
-    "sizeBytes":  1942016,
+    "releaseDate":  "2026-11-28T18:21:48+07:00",
+    "sha256":  "35a13214559f4e89e7ae8bbe158bc410a39fe41d535d00509030ec69c470c752",
+    "sizeBytes":  1956864,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v4.0.10 (Build 322): Sua triet de loi an game SW_HIDE khong ban duoc do (click tat che do .sh-mode.on bi ket, danh thuc mem WakeHiddenTabForUiActionAsync \u0026 thoat pt-resting tai Shop Thanh/Sheltom/FieldTrash, dong bo FocusEmulation \u0026 HideTabWindow, gian tooltip poll + bom rAF, chot van tay Shop Tap Hoa)."
+    "notes":  "v4.0.11 (Build 323): Sua triet de quan ly tab \u0026 dong bo nap nhanh Acc/Proxy: + Them noi cuoi (Max+1) va cot STT chuan TabIndex, tu dong Don so lien mach 1..N an toan (khong doi so tab dang mo live, doi ten thu muc profile 2 pha co rollback \u0026 remap Ledger/Cross-Ref) + nut chu dong \u0027Don so 1..N\u0027, them nut \u0027Don trang (Acc + Proxy + Profile + Ledger)\u0027 \u0026 \u0027Xoa tab hang loat\u0027, va bug EnsureOrGetTabByIndexForBulkApply + dong bo 1-1 Acc/Proxy che do Chi dien Tab trong, va nut Dong Tat Ca / Dong Tab Chon tu dong bo tich Auto (Selected=false) de tat han khong tu mo lai."
 }
