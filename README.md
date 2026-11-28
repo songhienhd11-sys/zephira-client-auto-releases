@@ -5,7 +5,7 @@ Kho phat hanh **chi chua bo cai 1-Click (`.exe`), goi cai lan dau (`.rar`) va ma
 - Tuyet doi **khong chua ma nguon**.
 - Tuyet doi **tach biet 100%** khoi nhanh phat hanh trinh duyet Chrome (`productId: "zephira-client-auto"`).
 
-## Phien ban hien tai (`stable`): `v4.0.6-b316`
+## Phien ban hien tai (`stable`): `v4.0.7-b317`
 - **Tai truc tiep 1-Click Setup (1.82 MB):** [`ZephiraClientAuto_Setup_1Click.exe`](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe)
-- **SHA-256 (Setup):** `477081621b1b1cfb59a1e186145d782222daf1594c7d75d718b90f9d64f6b0a8`
-- **Ghi chu:** v4.0.6 (Build 316): Va triet de 4 lo hong Stealth / Anti-Detection tren nen on dinh man hinh v4.0.5: chuyen __zca* vao Vault WeakMap/Symbol, dong bo 100% localStorage['pt.device'] <-> cookie pt_did, bu vien Win32 >= 818x642 + jitter xac dinh theo tung tab, va canh bao do [PROXY_IP_OVERLOAD] khi > 3 tab dung chung 1 Host IP Proxy ke ca khac port.
+- **SHA-256 (Setup):** `a373f627d92640c9aa8ef5384a55e7e3a823bdfd02003a6192f6665ec3d20055`
+- **Ghi chu:** v4.0.7 (Build 317): Them che do 1-Click Nap Acc All-Tab Nhanh (chung Pass hoac ID|Pass, tu tao den 60 tab), Chia Deu Proxy Nhanh (vd 20 IP x Chia 2 = 40 Tab kem canh bao trung >3 acc/IP), va them 2 nut Bo chon tat ca + Dong tat ca ngay tren thanh thao tac bang tab.
