@@ -1,11 +1,11 @@
-# ZephiraClientAuto - `stable` (`v4.0.8 • Build 320`)
+# ZephiraClientAuto - `stable` (`v4.0.9 • Build 321`)
 
 - **Product ID:** `zephira-client-auto`
 - **Channel:** `stable` (prerelease=`False`)
-- **Tag Release:** `v4.0.8-b320`
-- **Asset Setup 1-Click (1.83 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v4.0.8-b320](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v4.0.8-b320/ZephiraClientAuto_Setup_1Click.exe))
-- **Size Setup:** 1918976 bytes
-- **SHA-256 Setup:** `1d5dbeab221b9ef4528c647cf4e283fa08ad8497f0a434851bf629b6b9accc4c`
+- **Tag Release:** `v4.0.9-b321`
+- **Asset Setup 1-Click (1.85 MB):** `ZephiraClientAuto_Setup_1Click.exe` ([Tai ban v4.0.9-b321](https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/download/v4.0.9-b321/ZephiraClientAuto_Setup_1Click.exe))
+- **Size Setup:** 1938944 bytes
+- **SHA-256 Setup:** `1f3fb9746deaf65cea358de6dcea3cea738f599502a209d9de2e4699c6754fdb`
 
 ## Noi dung cap nhat
-v4.0.8 (Build 320): Hop nhat 3 cum va triet de tren nen sach v4.0.7: (1) FieldTrash nghi man ca tab An SW_HIDE & Khong An Visible (tach pt-resting, giu toast, TryExitGameRestModeTrustedAsync + hit-test tai 4 diem vao, WM_POWERBROADCAST Display-Off + danh thuc mem khong den/chop man, chan nhip quet 90-150s, OPEN_AUCTION_FAIL lan 1 45s); (2) Chong chua day hom van ve & bay di bay lai (chan ESCAPE_TO_FARM khi ItemDus>=265 hoac tui>=60 con do ban kem tran 3 chu ky/10 phut, va T02 Navisko troi sang, siet R5_EXCESS_CORES); (3) Chong trung dang nhap 'may chu khac / another server' tren JS+C#, dong WebSocket + cho settle 1.5s truoc moi reload, va Watchdog Guard 2 + WebGL 15s grace + SilentWS 45s.
+v4.0.9 (Build 321): Tai thiet ke UIX quan ly da tab gon gang (24-60 tab): thanh 2 tang 68px, 4 pill loc nhanh (Online/Mo/An/Loi), 3 menu dropdown (Auto, Reset Mem/Cung rai deu co Huy, Dong OFF-Mo/ON/Loi/Khoang/Tat ca), thanh thao tac theo lo Tu X -> Den Y, chon nhieu dong Grid (Ctrl/Shift+Click) + menu chuot phai rieng va dong bo TitleBar.
