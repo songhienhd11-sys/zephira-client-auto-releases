@@ -2,13 +2,13 @@
     "productId":  "zephira-client-auto",
     "channel":  "stable",
     "prerelease":  false,
-    "version":  "v4.0.7",
-    "buildNumber":  317,
-    "versionBadge":  "v4.0.7 • Build 317",
+    "version":  "v4.0.8",
+    "buildNumber":  320,
+    "versionBadge":  "v4.0.8 • Build 320",
     "clientRuntimeVersion":  "1.2.0",
-    "releaseDate":  "2026-11-28T11:19:12+07:00",
-    "sha256":  "a373f627d92640c9aa8ef5384a55e7e3a823bdfd02003a6192f6665ec3d20055",
-    "sizeBytes":  1913344,
+    "releaseDate":  "2026-11-28T15:25:57+07:00",
+    "sha256":  "1d5dbeab221b9ef4528c647cf4e283fa08ad8497f0a434851bf629b6b9accc4c",
+    "sizeBytes":  1918976,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephira-client-auto-releases/releases/latest/download/ZephiraClientAuto_Setup_1Click.exe",
-    "notes":  "v4.0.7 (Build 317): Them che do 1-Click Nap Acc All-Tab Nhanh (chung Pass hoac ID|Pass, tu tao den 60 tab), Chia Deu Proxy Nhanh (vd 20 IP x Chia 2 = 40 Tab kem canh bao trung \u003e3 acc/IP), va them 2 nut Bo chon tat ca + Dong tat ca ngay tren thanh thao tac bang tab."
+    "notes":  "v4.0.8 (Build 320): Hop nhat 3 cum va triet de tren nen sach v4.0.7: (1) FieldTrash nghi man ca tab An SW_HIDE \u0026 Khong An Visible (tach pt-resting, giu toast, TryExitGameRestModeTrustedAsync + hit-test tai 4 diem vao, WM_POWERBROADCAST Display-Off + danh thuc mem khong den/chop man, chan nhip quet 90-150s, OPEN_AUCTION_FAIL lan 1 45s); (2) Chong chua day hom van ve \u0026 bay di bay lai (chan ESCAPE_TO_FARM khi ItemDus\u003e=265 hoac tui\u003e=60 con do ban kem tran 3 chu ky/10 phut, va T02 Navisko troi sang, siet R5_EXCESS_CORES); (3) Chong trung dang nhap \u0027may chu khac / another server\u0027 tren JS+C#, dong WebSocket + cho settle 1.5s truoc moi reload, va Watchdog Guard 2 + WebGL 15s grace + SilentWS 45s."
 }
